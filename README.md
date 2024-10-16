@@ -1,2 +1,2 @@
 # AverageGradeCalculator1
-Opis
+Aplikacja do liczenia średniej ocen dla uczniów”
